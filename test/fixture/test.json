@@ -1,0 +1,26 @@
+{
+  "create": {
+    "payload": {
+      "invalid": {},
+      "missing": {},
+      "valid": {}
+    },
+    "response": {
+      "error": {},
+      "invalid": {},
+      "success": {}
+    }
+  },
+  "update": {
+    "payload": {
+      "invalid": {},
+      "missing": {},
+      "valid": {}
+    },
+    "response": {
+      "error": {},
+      "invalid": {},
+      "success": {}
+    }
+  }
+}
